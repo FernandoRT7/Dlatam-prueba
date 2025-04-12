@@ -2,9 +2,9 @@
 
 body {
     font-family: 'Caveat', cursive;
-    background-color: #343a40;
+    background-color: #0877e6;
     color: #fff;
-    background-image: linear-gradient(to bottom, #212529, #343a40);
+    background-image: linear-gradient(to bottom, #0877e6, #0877e6);
 }
 
 footer {
@@ -12,7 +12,7 @@ footer {
 }
 
 .container {
-    background-color: #495057;
+    background-color: #0877e6;
     padding: 20px;
     border-radius: 5px;
 }
@@ -20,7 +20,7 @@ footer {
 .titulo {
     color: #fff;
     text-align: center;
-    text-shadow: 1px 1px 2px #000;
+    text-shadow: 1px 1px 2px #ffffff;
 }
 
 .subrayado {
@@ -28,7 +28,7 @@ footer {
 }
 
 section {
-    background-color: #6c757d;
+    background-color: #0877e6;
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 5px;
@@ -36,11 +36,11 @@ section {
 }
 
 section:hover {
-    background-color: #5a6268;
+    background-color: #0877e6;
 }
 
 footer {
-    background-color: #343a40;
+    background-color: #0877e6;
     text-align: center;
     padding: 10px;
     border-radius: 5px;
@@ -52,7 +52,7 @@ h2 {
 }
 
 .navbar {
-    background-color: #212529;
+    background-color: #0877e6;
 }
 
 .navbar-brand,
